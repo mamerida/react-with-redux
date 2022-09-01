@@ -1,0 +1,23 @@
+.buttonContainer{
+    display: flex;
+    flex-flow: column;
+    margin: 50px 0 ;
+}
+
+.buttonToDo{
+    border: none;
+    height: 20px;
+    margin: 15px;
+    background-color: rgba(245, 222, 179, 0);
+    color: azure;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.spanToDo{
+    color:aqua
+}
+
+.spanComplete{
+    color:green
+}

@@ -1,0 +1,11 @@
+
+.formContainer{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    width: 40vw;
+}
+.inputText{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif
+}
